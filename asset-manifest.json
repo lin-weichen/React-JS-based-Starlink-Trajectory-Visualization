@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React-JS-based-Starlink-Trajectory-Visualization/static/css/main.51d82005.chunk.css",
+    "main.js": "/React-JS-based-Starlink-Trajectory-Visualization/static/js/main.fbbea285.chunk.js",
+    "main.js.map": "/React-JS-based-Starlink-Trajectory-Visualization/static/js/main.fbbea285.chunk.js.map",
+    "runtime-main.js": "/React-JS-based-Starlink-Trajectory-Visualization/static/js/runtime-main.8250ad62.js",
+    "runtime-main.js.map": "/React-JS-based-Starlink-Trajectory-Visualization/static/js/runtime-main.8250ad62.js.map",
+    "static/css/2.220ccb42.chunk.css": "/React-JS-based-Starlink-Trajectory-Visualization/static/css/2.220ccb42.chunk.css",
+    "static/js/2.58938a20.chunk.js": "/React-JS-based-Starlink-Trajectory-Visualization/static/js/2.58938a20.chunk.js",
+    "static/js/2.58938a20.chunk.js.map": "/React-JS-based-Starlink-Trajectory-Visualization/static/js/2.58938a20.chunk.js.map",
+    "index.html": "/React-JS-based-Starlink-Trajectory-Visualization/index.html",
+    "precache-manifest.343521f3741c9c2bb5d928e5a78cd15f.js": "/React-JS-based-Starlink-Trajectory-Visualization/precache-manifest.343521f3741c9c2bb5d928e5a78cd15f.js",
+    "service-worker.js": "/React-JS-based-Starlink-Trajectory-Visualization/service-worker.js",
+    "static/css/2.220ccb42.chunk.css.map": "/React-JS-based-Starlink-Trajectory-Visualization/static/css/2.220ccb42.chunk.css.map",
+    "static/css/main.51d82005.chunk.css.map": "/React-JS-based-Starlink-Trajectory-Visualization/static/css/main.51d82005.chunk.css.map",
+    "static/js/2.58938a20.chunk.js.LICENSE.txt": "/React-JS-based-Starlink-Trajectory-Visualization/static/js/2.58938a20.chunk.js.LICENSE.txt",
+    "static/media/satellite1.png": "/React-JS-based-Starlink-Trajectory-Visualization/static/media/satellite1.296b75ad.png",
+    "static/media/starlink_logo.svg": "/React-JS-based-Starlink-Trajectory-Visualization/static/media/starlink_logo.142c8c7f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8250ad62.js",
+    "static/css/2.220ccb42.chunk.css",
+    "static/js/2.58938a20.chunk.js",
+    "static/css/main.51d82005.chunk.css",
+    "static/js/main.fbbea285.chunk.js"
+  ]
+}
